@@ -1,1 +1,1 @@
-[](https://neofetch-profile.vercel.app/api?username=hazedrazel)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=hazedrazel)
